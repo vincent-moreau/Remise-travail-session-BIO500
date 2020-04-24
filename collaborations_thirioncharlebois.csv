@@ -1,0 +1,150 @@
+etudiant1;etudiant2;cours;date
+turgeon_gabriel;desormeaux_andreanne;BIO500;2020
+turgeon_gabriel;boisvert_remi;BIO500;2020
+turgeon_gabriel;carreau_karlandre;BIO500;2020
+turgeon_gabriel;thirioncharlebois_erik;BIO500;2020
+desormeaux_andreanne;boisvert_remi;BIO500;2020
+desormeaux_andreanne;carreau_karlandre;BIO500;2020
+desormeaux_andreanne;thirioncharlebois_erik;BIO500;2020
+desormeaux_andreanne;turgeon_gabriel;BIO500;2020
+boisvert_remi;carreau_karlandre;BIO500;2020
+boisvert_remi;thirioncharlebois_erik;BIO500;2020
+boisvert_remi;turgeon_gabriel;BIO500;2020
+boisvert_remi;desormeaux_andreanne;BIO500;2020
+carreau_karlandre;thirioncharlebois_erik;BIO500;2020
+carreau_karlandre;turgeon_gabriel;BIO500;2020
+carreau_karlandre;desormeaux_andreanne;BIO500;2020
+carreau_karlandre;boisvert_remi;BIO500;2020
+thirioncharlebois_erik;turgeon_gabriel;BIO500;2020
+thirioncharlebois_erik;desormeaux_andreanne;BIO500;2020
+thirioncharlebois_erik;boisvert_remi;BIO500;2020
+thirioncharlebois_erik;carreau_karlandre;BIO500;2020
+couture_emma;thirioncharlebois_erik;TSB300;2020
+couture_emma;gagnon_joannie;TSB300;2020
+couture_emma;juneau_mathilde;TSB300;2020
+couture_emma;lapointe_eve;TSB300;2020
+couture_emma;leclair_emilie;TSB300;2020
+couture_emma;rondeausaintjean_camille;TSB300;2020
+couture_emma;savoiecloutier_maude;TSB300;2020
+thirioncharlebois_erik;couture_emma;TSB300;2020
+thirioncharlebois_erik;gagnon_joannie;TSB300;2020
+thirioncharlebois_erik;juneau_mathilde;TSB300;2020
+thirioncharlebois_erik;lapointe_eve;TSB300;2020
+thirioncharlebois_erik;leclair_emilie;TSB300;2020
+thirioncharlebois_erik;rondeausaintjean_camille;TSB300;2020
+thirioncharlebois_erik;savoiecloutier_maude;TSB300;2020
+gagnon_joannie;thirioncharlebois_erik;TSB300;2020
+gagnon_joannie;couture_emma;TSB300;2020
+gagnon_joannie;juneau_mathilde;TSB300;2020
+gagnon_joannie;lapointe_eve;TSB300;2020
+gagnon_joannie;leclair_emilie;TSB300;2020
+gagnon_joannie;rondeausaintjean_camille;TSB300;2020
+gagnon_joannie;savoiecloutier_maude;TSB300;2020
+juneau_mathilde;couture_emma;TSB300;2020
+juneau_mathilde;thirioncharlebois_erik;TSB300;2020
+juneau_mathilde;gagnon_joannie;TSB300;2020
+juneau_mathilde;lapointe_eve;TSB300;2020
+juneau_mathilde;leclair_emilie;TSB300;2020
+juneau_mathilde;rondeausaintjean_camille;TSB300;2020
+juneau_mathilde;savoiecloutier_maude;TSB300;2020
+lapointe_eve;couture_emma;TSB300;2020
+lapointe_eve;thirioncharlebois_erik;TSB300;2020
+lapointe_eve;gagnon_joannie;TSB300;2020
+lapointe_eve;juneau_mathilde;TSB300;2020
+lapointe_eve;leclair_emilie;TSB300;2020
+lapointe_eve;rondeausaintjean_camille;TSB300;2020
+lapointe_eve;savoiecloutier_maude;TSB300;2020
+leclair_emilie;couture_emma;TSB300;2020
+leclair_emilie;thirioncharlebois_erik;TSB300;2020
+leclair_emilie;gagnon_joannie;TSB300;2020
+leclair_emilie;juneau_mathilde;TSB300;2020
+leclair_emilie;leclair_emilie;TSB300;2020
+leclair_emilie;lapointe_eve;TSB300;2020
+leclair_emilie;rondeausaintjean_camille;TSB300;2020
+leclair_emilie;savoiecloutier_maude;TSB300;2020
+rondeausaintjean_camille;couture_emma;TSB300;2020
+rondeausaintjean_camille;thirioncharlebois_erik;TSB300;2020
+rondeausaintjean_camille;gagnon_joannie;TSB300;2020
+rondeausaintjean_camille;juneau_mathilde;TSB300;2020
+rondeausaintjean_camille;leclair_emilie;TSB300;2020
+rondeausaintjean_camille;lapointe_eve;TSB300;2020
+rondeausaintjean_camille;savoiecloutier_maude;TSB300;2020
+savoiecloutier_maude;couture_emma;TSB300;2020
+savoiecloutier_maude;thirioncharlebois_erik;TSB300;2020
+savoiecloutier_maude;gagnon_joannie;TSB300;2020
+savoiecloutier_maude;juneau_mathilde;TSB300;2020
+savoiecloutier_maude;leclair_emilie;TSB300;2020
+savoiecloutier_maude;lapointe_eve;TSB300;2020
+savoiecloutier_maude;savoie_cloutier_maude;TSB300;2020
+thirioncharlebois_erik;thiffault_valerie;BCM104;2018
+thirioncharlebois_erik;spooner_joelle;BCM104;2018
+thirioncharlebois_erik;laporte_simon;BCM104;2018
+thirioncharlebois_erik;tessierlariviere_charlotte;BCM104;2018
+thirioncharlebois_erik;vachon_joakim;BCM104;2018
+thiffault_valerie;thirioncharlebois_erik;BCM104;2018
+thiffault_valerie;spooner_joelle;BCM104;2018
+thiffault_valerie;laporte_simon;BCM104;2018
+thiffault_valerie;tessierlariviere_charlotte;BCM104;2018
+thiffault_valerie;vachon_joakim;BCM104;2018
+spooner_joelle;thirioncharlebois_erik;BCM104;2018
+spooner_joelle;vachon_joakim;BCM104;2018
+spooner_joelle;tessierlariviere_charlotte;BCM104;2018
+spooner_joelle;laporte_simon;BCM104;2018
+spooner_joelle;thiffault_valerie;BCM104;2018
+laporte_simon;spooner_joelle;BCM104;2018
+laporte_simon;thiffault_valerie;BCM104;2018
+laporte_simon;tessierlariviere_charlotte;BCM104;2018
+laporte_simon;vachon_joakim;BCM104;2018
+laporte_simon;thirioncharlebois_erik;BCM104;2018
+tessierlariviere_charlotte;thirioncharlebois_erik;BCM104;2018
+tessierlariviere_charlotte;vachon_joakim;BCM104;2018
+tessierlariviere_charlotte;thiffault_valerie;BCM104;2018
+tessierlariviere_charlotte;spooner_joelle;BCM104;2018
+tessierlariviere_charlotte;laporte_simon;BCM104;2018
+vachon_joakim;tessierlariviere_charlotte;BCM104;2018
+vachon_joakim;laporte_simon;BCM104;2018
+vachon_joakim;spooner_joelle;BCM104;2018
+vachon_joakim;thiffault_valerie;BCM104;2018
+vachon_joakim;thirioncharlebois_erik;BCM104;2018
+thirioncharlebois_erik;plante_louis;BCM113;2018
+plante_louis;thirioncharlebois_erik;BCM113;2018
+thirioncharlebois_erik;plante_louis;BIO109;2018
+thirioncharlebois_erik;moreau_vincent;BIO109;2018
+thirioncharlebois_erik;Julien Faure-Levesque;BIO109;2018
+plante_louis;moreau_vincent;BIO109;2018
+plante_louis;Julien Faure-Levesque;BIO109;2018
+plante_louis;thirioncharlebois_erik;BIO109;2018
+moreau_vincent;thirioncharlebois_erik;BIO109;2018
+moreau_vincent;plante_louis;BIO109;2018
+moreau_vincent;Julien Faure-Levesque;BIO109;2018
+Julien Faure-Levesque;moreau_vincent;BIO109;2018
+Julien Faure-Levesque;thirioncharlebois_erik;BIO109;2018
+Julien Faure-Levesque;plante_louis;BIO109;2018
+plante_louis;thirioncharlebois_erik;MCB101;2018
+thirioncharlebois_erik;plante_louis;MCB101;2018
+plante_louis;thirioncharlebois_erik;ZOO105;2018
+thirioncharlebois_erik;plante_louis;ZOO105;2018
+plante_louis;thirioncharlebois_erik;ZOO307;2018
+thirioncharlebois_erik;plante_louis;ZOO307;2018
+moreau_vincent;thirioncharlebois_erik;ZOO306;2018
+thirioncharlebois_erik;moreau_vincent;ZOO306;2018
+thirioncharlebois_erik;Kathryne Moreau;INS154;2019
+thirioncharlebois_erik;Julien Bonneaud-Costa ;INS154;2019
+thirioncharlebois_erik;Noura Barro;INS154;2019
+thirioncharlebois_erik;Kenley Joule Pierre;INS154;2019
+Kathryne Moreau;thirioncharlebois_erik;INS154;2019
+Kathryne Moreau;Julien Bonneaud-Costa ;INS154;2019
+Kathryne Moreau;Noura Barro;INS154;2019
+Kathryne Moreau;Kenley Joule Pierre;INS154;2019
+Julien Bonneaud-Costa ;Kathryne Moreau;INS154;2019
+Julien Bonneaud-Costa ;Noura Barro;INS154;2019
+Julien Bonneaud-Costa ;Kenley Joule Pierre;INS154;2019
+Julien Bonneaud-Costa ;thirioncharlebois_erik;INS154;2019
+Noura Barro;Kenley Joule Pierre;INS154;2019
+Noura Barro;thirioncharlebois_erik;INS154;2019
+Noura Barro;Julien Bonneaud-Costa ;INS154;2019
+Noura Barro;Kathryne Moreau;INS154;2019
+Kenley Joule Pierre;Noura Barro;INS154;2019
+Kenley Joule Pierre;thirioncharlebois_erik;INS154;2019
+Kenley Joule Pierre;Julien Bonneaud-Costa ;INS154;2019
+Kenley Joule Pierre;Kathryne Moreau;INS154;2019

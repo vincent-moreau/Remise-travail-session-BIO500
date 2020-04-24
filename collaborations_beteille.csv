@@ -1,0 +1,519 @@
+etudiant1;etudiant2;cours;date
+lessard_annesophie;pelletier_noemie;BCM113;2018
+pelletier_noemie;lessard_annesophie;BCM113;2018
+cazeault_elizabeth;couture_emma;BCM113;2018
+couture_emma;cazeault_elizabeth;BCM113;2018
+beteille_clemence;lagace_etienne;BCM113;2018
+lagace_etienne;beteille_clemence;BCM113;2018
+lessard_eloise;mallette_marianne;BCM113;2018
+mallette_marianne;lessard_eloise;BCM113;2018
+lessard_annesophie;couture_emma;BIO109;2018
+lessard_annesophie;cazeault_elizabeth;BIO109;2018
+cazeault_elizabeth;lessard_annesophie;BIO109;2018
+cazeault_elizabeth;couture_emma;BIO109;2018
+couture_emma;cazeault_elizabeth;BIO109;2018
+couture_emma;lessard_annesophie;BIO109;2018
+legros_jade;carbonneau_alexandre ;BIO109;2018
+legros_jade;rondeausaintjean_camille;BIO109;2018
+legros_jade;carreau_karlandre;BIO109;2018
+carbonneau_alexandre ;legros_jade;BIO109;2018
+carbonneau_alexandre ;rondeausaintjean_camille;BIO109;2018
+carbonneau_alexandre ;carreau_karlandre;BIO109;2018
+rondeausaintjean_camille;legros_jade;BIO109;2018
+rondeausaintjean_camille;carreau_karlandre;BIO109;2018
+rondeausaintjean_camille;carbonneau_alexandre ;BIO109;2018
+carreau_karlandre;legros_jade;BIO109;2018
+carreau_karlandre;carbonneau_alexandre ;BIO109;2018
+carreau_karlandre;rondeausaintjean_camille;BIO109;2018
+trottier_katiacatherine;frappierlecompte_juliette;BIO109;2018
+trottier_katiacatherine;desjardins_vincent;BIO109;2018
+trottier_katiacatherine;beaupre_raphael;BIO109;2018
+frappierlecompte_juliette;trottier_katiacatherine;BIO109;2018
+frappierlecompte_juliette;desjardins_vincent;BIO109;2018
+frappierlecompte_juliette;beaupre_raphael;BIO109;2018
+desjardins_vincent;trottier_katiacatherine;BIO109;2018
+desjardins_vincent;frappierlecompte_juliette;BIO109;2018
+desjardins_vincent;beaupre_raphael;BIO109;2018
+beaupre_raphael;trottier_katiacatherine;BIO109;2018
+beaupre_raphael;frappierlecompte_juliette;BIO109;2018
+beaupre_raphael;desjardins_vincent;BIO109;2018
+beteille_clemence;lagace_etienne;BIO109;2018
+lagace_etienne;beteille_clemence;BIO109;2018
+beteille_clemence;guay_laurence;BIO109;2018
+guay_laurence;beteille_clemence;BIO109;2018
+beteille_clemence;plantecardinal_katherine;BIO109;2018
+plantecardinal_katherine;beteille_clemence;BIO109;2018
+lagace_etienne;plantecardinal_katherine;BIO109;2018
+lagace_etienne;guay_laurence;BIO109;2018
+plantecardinal_katherine;lagace_etienne;BIO109;2018
+plantecardinal_katherine;guay_laurence;BIO109;2018
+guay_laurence;lagace_etienne;BIO109;2018
+guay_laurence;plantecardinal_katherine;BIO109;2018
+lessard_eloise;mallette_marianne;BIO109;2018
+lessard_eloise;gagnon_joannie;BIO109;2018
+lessard_eloise;beaulac_arianne;BIO109;2018
+mallette_marianne;lessard_eloise;BIO109;2018
+mallette_marianne;gagnon_joannie;BIO109;2018
+mallette_marianne;beaulac_arianne;BIO109;2018
+gagnon_joannie;lessard_eloise;BIO109;2018
+gagnon_joannie;mallette_marianne;BIO109;2018
+gagnon_joannie;beaulac_arianne;BIO109;2018
+beaulac_arianne;lessard_eloise;BIO109;2018
+beaulac_arianne;mallette_marianne;BIO109;2018
+beaulac_arianne;gagnon_joannie;BIO109;2018
+legros_jade;lessard_eloise;BIO500;2020
+legros_jade;trottier_katiacatherine;BIO500;2020
+legros_jade;cazeault_elizabeth;BIO500;2020
+legros_jade;beteille_clemence;BIO500;2020
+legros_jade;lessard_annesophie;BIO500;2020
+lessard_eloise;legros_jade;BIO500;2020
+lessard_eloise;trottier_katiacatherine;BIO500;2020
+lessard_eloise;cazeault_elizabeth;BIO500;2020
+lessard_eloise;beteille_clemence;BIO500;2020
+lessard_eloise;lessard_annesophie;BIO500;2020
+trottier_katiacatherine;legros_jade;BIO500;2020
+trottier_katiacatherine;lessard_eloise;BIO500;2020
+trottier_katiacatherine;cazeault_elizabeth;BIO500;2020
+trottier_katiacatherine;beteille_clemence;BIO500;2020
+trottier_katiacatherine;lessard_annesophie;BIO500;2020
+cazeault_elizabeth;legros_jade;BIO500;2020
+cazeault_elizabeth;lessard_eloise;BIO500;2020
+cazeault_elizabeth;trottier_katiacatherine;BIO500;2020
+cazeault_elizabeth;beteille_clemence;BIO500;2020
+cazeault_elizabeth;lessard_annesophie;BIO500;2020
+beteille_clemence;legros_jade;BIO500;2020
+beteille_clemence;lessard_eloise;BIO500;2020
+beteille_clemence;trottier_katiacatherine;BIO500;2020
+beteille_clemence;cazeault_elizabeth;BIO500;2020
+beteille_clemence;lessard_annesophie;BIO500;2020
+lessard_annesophie;cazeault_elizabeth;BIO500;2020
+lessard_annesophie;beteille_clemence;BIO500;2020
+lessard_annesophie;legros_jade;BIO500;2020
+lessard_annesophie;lessard_eloise;BIO500;2020
+lessard_annesophie;trottier_katiacatherine;BIO500;2020
+lessard_annesophie;cazeault_elizabeth;BOT400;2020
+cazeault_elizabeth;lessard_annesophie;BOT400;2020
+trottier_katiacatherine;hinse_pierandre;BOT400;2019
+hinse_pierandre;trottier_katiacatherine;BOT400;2019
+beteille_clemence;plantecardinal_katherine;BOT400;2020
+plantecardinal_katherine;beteille_clemence;BOT400;2020
+lessard_eloise;couture_emma;BOT400;2020
+couture_emma;lessard_eloise;BOT400;2020
+legros_jade;carbonneau_alexandre ;BOT400;2018
+carbonneau_alexandre ;legros_jade;BOT400;2018
+lessard_annesophie;rondeausaintjean_camille;ECL308;2019
+rondeausaintjean_camille;lessard_annesophie;ECL308;2019
+beteille_clemence;villeneuve_clara;ECL308;2019
+villeneuve_clara;beteille_clemence;ECL308;2019
+legros_jade;carbonneau_alexandre ;ECL308;2018
+carbonneau_alexandre ;legros_jade;ECL308;2018
+lessard_annesophie;couture_emma;ECL403;2019
+lessard_annesophie;cazeault_elizabeth;ECL403;2019
+cazeault_elizabeth;lessard_annesophie;ECL403;2019
+cazeault_elizabeth;couture_emma;ECL403;2019
+couture_emma;cazeault_elizabeth;ECL403;2019
+couture_emma;lessard_annesophie;ECL403;2019
+beteille_clemence;plantecardinal_katherine;ECL403;2019
+plantecardinal_katherine;beteille_clemence;ECL403;2019
+lessard_eloise;mallette_marianne;ECL403;2018
+lessard_eloise;gagnon_joannie;ECL403;2018
+mallette_marianne;lessard_eloise;ECL403;2018
+mallette_marianne;gagnon_joannie;ECL403;2018
+gagnon_joannie;lessard_eloise;ECL403;2018
+gagnon_joannie;mallette_marianne;ECL403;2018
+lessard_annesophie;cazeault_elizabeth;ECL404;2019
+cazeault_elizabeth;lessard_annesophie;ECL404;2019
+lessard_annesophie;boisvertvigneault_erika;ECL404;2019
+cazeault_elizabeth;boisvertvigneault_erika;ECL404;2019
+boisvertvigneault_erika;cazeault_elizabeth;ECL404;2019
+boisvertvigneault_erika;lessard_annesophie;ECL404;2019
+legros_jade;trottier_katiacatherine;ECL404;2019
+legros_jade;carbonneau_alexandre ;ECL404;2019
+carbonneau_alexandre ;trottier_katiacatherine;ECL404;2019
+carbonneau_alexandre ;legros_jade;ECL404;2019
+trottier_katiacatherine;carbonneau_alexandre ;ECL404;2019
+trottier_katiacatherine;legros_jade;ECL404;2019
+beteille_clemence;plantecardinal_katherine;ECL404;2019
+plantecardinal_katherine;beteille_clemence;ECL404;2019
+lessard_eloise;hinse_pierandré;ECL404;2018
+lessard_eloise;mallette_marianne;ECL404;2018
+hinse_pierandré;lessard_eloise;ECL404;2018
+hinse_pierandré;mallette_marianne;ECL404;2018
+mallette_marianne;lessard_eloise;ECL404;2018
+mallette_marianne;hinse_pierandré;ECL404;2018
+lessard_annesophie;cazeault_elizabeth;ECL406;2019
+cazeault_elizabeth;lessard_annesophie;ECL406;2019
+carbonneau_alexandre ;legros_jade;ECL406;2019
+legros_jade;carbonneau_alexandre ;ECL406;2019
+beteille_clemence;villeneuve_clara;ECL406;2019
+villeneuve_clara;beteille_clemence;ECL406;2019
+lessard_eloise;couture_emma;ECL406;2018
+couture_emma;lessard_eloise;ECL406;2018
+lessard_annesophie;caouette_marika;ECL515;2019
+lessard_annesophie;gagnon_joannie;ECL515;2019
+lessard_annesophie;mallette_marianne;ECL515;2019
+lessard_annesophie;barro_noura;ECL515;2019
+caouette_marika;gagnon_joannie;ECL515;2019
+caouette_marika;mallette_marianne;ECL515;2019
+caouette_marika;barro_noura;ECL515;2019
+caouette_marika;lessard_annesophie;ECL515;2019
+gagnon_joannie;mallette_marianne;ECL515;2019
+gagnon_joannie;barro_noura;ECL515;2019
+gagnon_joannie;lessard_annesophie;ECL515;2019
+gagnon_joannie;caouette_marika;ECL515;2019
+mallette_marianne;barro_noura;ECL515;2019
+mallette_marianne;gagnon_joannie;ECL515;2019
+mallette_marianne;caouette_marika;ECL515;2019
+mallette_marianne;lessard_annesophie;ECL515;2019
+barro_noura;gagnon_joannie;ECL515;2019
+barro_noura;caouette_marika;ECL515;2019
+barro_noura;lessard_annesophie;ECL515;2019
+barro_noura;caouette_marika;ECL515;2019
+legros_jade;carbonneau_alexandre ;ECL515;2019
+legros_jade;trottier_katiacatherine;ECL515;2019
+legros_jade;rondeausaintjean_camille;ECL515;2019
+legros_jade;carreau_karlandre;ECL515;2019
+carbonneau_alexandre ;legros_jade;ECL515;2019
+carbonneau_alexandre ;trottier_katiacatherine;ECL515;2019
+carbonneau_alexandre ;rondeausaintjean_camille;ECL515;2019
+carbonneau_alexandre ;carreau_karlandre;ECL515;2019
+trottier_katiacatherine;legros_jade;ECL515;2019
+trottier_katiacatherine;carbonneau_alexandre ;ECL515;2019
+trottier_katiacatherine;rondeausaintjean_camille;ECL515;2019
+trottier_katiacatherine;carreau_karlandre;ECL515;2019
+rondeausaintjean_camille;legros_jade;ECL515;2019
+rondeausaintjean_camille;carbonneau_alexandre ;ECL515;2019
+rondeausaintjean_camille;trottier_katiacatherine;ECL515;2019
+rondeausaintjean_camille;carreau_karlandre;ECL515;2019
+carreau_karlandre;legros_jade;ECL515;2019
+carreau_karlandre;carbonneau_alexandre ;ECL515;2019
+carreau_karlandre;trottier_katiacatherine;ECL515;2019
+carreau_karlandre;rondeausaintjean_camille;ECL515;2019
+beteille_clemence;provenchertardif_samuel;ECL515;2019
+spooner_joelle;beteille_clemence;ECL515;2019
+thiffault_valerie;beteille_clemence;ECL515;2019
+tessierlariviere_charlotte;beteille_clemence;ECL515;2019
+provenchertardif_samuel;beteille_clemence;ECL515;2019
+spooner_joelle;thiffault_valerie;ECL515;2019
+spooner_joelle;tessierlariviere_charlotte;ECL515;2019
+spooner_joelle;provenchertardif_samuel;ECL515;2019
+thiffault_valerie;tessierlariviere_charlotte;ECL515;2019
+thiffault_valerie;provenchertardif_samuel;ECL515;2019
+thiffault_valerie;spooner_joelle;ECL515;2019
+tessierlariviere_charlotte;thiffault_valerie;ECL515;2019
+tessierlariviere_charlotte;provenchertardif_samuel;ECL515;2019
+tessierlariviere_charlotte;spooner_joelle;ECL515;2019
+provenchertardif_samuel;thiffault_valerie;ECL515;2019
+provenchertardif_samuel;tessierlariviere_charlotte;ECL515;2019
+provenchertardif_samuel;spooner_joelle;ECL515;2019
+lessard_eloise;couture_emma;ECL515;2019
+lessard_eloise;jacques_marie;ECL515;2019
+lessard_eloise;cazeault_elizabeth;ECL515;2019
+couture_emma;lessard_eloise;ECL515;2019
+couture_emma;jacques_marie;ECL515;2019
+couture_emma;cazeault_elizabeth;ECL515;2019
+jacques_marie;lessard_eloise;ECL515;2019
+jacques_marie;couture_emma;ECL515;2019
+jacques_marie;cazeault_elizabeth;ECL515;2019
+cazeault_elizabeth;lessard_eloise;ECL515;2019
+cazeault_elizabeth;couture_emma;ECL515;2019
+cazeault_elizabeth;jacques_marie;ECL515;2019
+lessard_annesophie;cazeault_elizabeth;ECL516;2018
+lessard_annesophie;nault_laurianne;ECL516;2018
+cazeault_elizabeth;lessard_annesophie;ECL516;2018
+cazeault_elizabeth;nault_laurianne;ECL516;2018
+cazeault_elizabeth;couture_emma;ECL516;2018
+couture_emma;lessard_annesophie;ECL516;2018
+couture_emma;nault_laurianne;ECL516;2018
+couture_emma;cazeault_elizabeth;ECL516;2018
+nault_laurianne;lessard_annesophie;ECL516;2018
+nault_laurianne;cazeault_elizabeth;ECL516;2018
+nault_laurianne;couture_emma;ECL516;2018
+legros_jade;carbonneau_alexandre ;ECL516;2017
+legros_jade;carreau_karlandre;ECL516;2017
+legros_jade;boisvert_remi;ECL516;2017
+legros_jade;viens_cyrille;ECL516;2017
+carbonneau_alexandre ;legros_jade;ECL516;2017
+carbonneau_alexandre ;carreau_karlandre;ECL516;2017
+carbonneau_alexandre ;boisvert_remi;ECL516;2017
+carbonneau_alexandre ;viens_cyrille;ECL516;2017
+carreau_karlandre;legros_jade;ECL516;2017
+carreau_karlandre;carbonneau_alexandre ;ECL516;2017
+carreau_karlandre;boisvert_remi;ECL516;2017
+carreau_karlandre;viens_cyrille;ECL516;2017
+boisvert_remi;legros_jade;ECL516;2017
+boisvert_remi;carbonneau_alexandre ;ECL516;2017
+boisvert_remi;carreau_karlandre;ECL516;2017
+boisvert_remi;viens_cyrille;ECL516;2017
+viens_cyrille;legros_jade;ECL516;2017
+viens_cyrille;carbonneau_alexandre ;ECL516;2017
+viens_cyrille;carreau_karlandre;ECL516;2017
+viens_cyrille;boisvert_remi;ECL516;2017
+trottier_katiacatherine;deblois_fanny;ECL516;2019
+trottier_katiacatherine;racinemineault_chanel;ECL516;2019
+trottier_katiacatherine;michaudleblanc_esther;ECL516;2019
+deblois_fanny;trottier_katiacatherine;ECL516;2019
+deblois_fanny;racinemineault_chanel;ECL516;2019
+deblois_fanny;michaudleblanc_esther;ECL516;2019
+racinemineault_chanel;trottier_katiacatherine;ECL516;2019
+racinemineault_chanel;deblois_fanny;ECL516;2019
+racinemineault_chanel;michaudleblanc_esther;ECL516;2019
+michaudleblanc_esther;trottier_katiacatherine;ECL516;2019
+michaudleblanc_esther;deblois_fanny;ECL516;2019
+michaudleblanc_esther;racinemineault_chanel;ECL516;2019
+beteille_clemence;plantecardinal_katherine;ECL516;2018
+beteille_clemence;guay_laurence;ECL516;2018
+beteille_clemence;plante_louis;ECL516;2018
+plantecardinal_katherine;beteille_clemence;ECL516;2018
+guay_laurence;beteille_clemence;ECL516;2018
+plante_louis;beteille_clemence;ECL516;2018
+plantecardinal_katherine;plante_louis;ECL516;2018
+plantecardinal_katherine;guay_laurence;ECL516;2018
+guay_laurence;plante_louis;ECL516;2018
+guay_laurence;plantecardinal_katherine;ECL516;2018
+plante_louis;plantecardinal_katherine;ECL516;2018
+plante_louis;guay_laurence;ECL516;2018
+lessard_eloise;gagnon_joannie;ECL516;2018
+lessard_eloise;mallette_marianne;ECL516;2018
+lessard_eloise;boisvert_erika;ECL516;2018
+gagnon_joannie;lessard_eloise;ECL516;2018
+gagnon_joannie;mallette_marianne;ECL516;2018
+gagnon_joannie;boisvert_erika;ECL516;2018
+mallette_marianne;lessard_eloise;ECL516;2018
+mallette_marianne;gagnon_joannie;ECL516;2018
+mallette_marianne;boisvert_erika;ECL516;2018
+boisvert_erika;lessard_eloise;ECL516;2018
+boisvert_erika;gagnon_joannie;ECL516;2018
+boisvert_erika;mallette_marianne;ECL516;2018
+lessard_annesophie;cazeault_elizabeth;ECL527;2018
+lessard_annesophie;nault_laurianne;ECL527;2018
+lessard_annesophie;lessard_eloise;ECL527;2018
+lessard_annesophie;couture_emma;ECL527;2018
+cazeault_elizabeth;lessard_annesophie;ECL527;2018
+cazeault_elizabeth;nault_laurianne;ECL527;2018
+cazeault_elizabeth;lessard_eloise;ECL527;2018
+cazeault_elizabeth;couture_emma;ECL527;2018
+nault_laurianne;lessard_annesophie;ECL527;2018
+nault_laurianne;cazeault_elizabeth;ECL527;2018
+nault_laurianne;lessard_eloise;ECL527;2018
+nault_laurianne;couture_emma;ECL527;2018
+lessard_eloise;lessard_annesophie;ECL527;2018
+lessard_eloise;cazeault_elizabeth;ECL527;2018
+lessard_eloise;nault_laurianne;ECL527;2018
+lessard_eloise;couture_emma;ECL527;2018
+couture_emma;lessard_annesophie;ECL527;2018
+couture_emma;cazeault_elizabeth;ECL527;2018
+couture_emma;nault_laurianne;ECL527;2018
+couture_emma;lessard_eloise;ECL527;2018
+trottier_katiacatherine;deblois_fanny;ECL527;2019
+trottier_katiacatherine;racinemineault_chanel;ECL527;2019
+trottier_katiacatherine;michaudleblanc_esther;ECL527;2019
+trottier_katiacatherine;chaput_lydia;ECL527;2019
+deblois_fanny;trottier_katiacatherine;ECL527;2019
+deblois_fanny;racinemineault_chanel;ECL527;2019
+deblois_fanny;michaudleblanc_esther;ECL527;2019
+deblois_fanny;chaput_lydia;ECL527;2019
+racinemineault_chanel;trottier_katiacatherine;ECL527;2019
+racinemineault_chanel;deblois_fanny;ECL527;2019
+racinemineault_chanel;michaudleblanc_esther;ECL527;2019
+racinemineault_chanel;chaput_lydia;ECL527;2019
+michaudleblanc_esther;trottier_katiacatherine;ECL527;2019
+michaudleblanc_esther;deblois_fanny;ECL527;2019
+michaudleblanc_esther;racinemineault_chanel;ECL527;2019
+michaudleblanc_esther;chaput_lydia;ECL527;2019
+chaput_lydia;trottier_katiacatherine;ECL527;2019
+chaput_lydia;deblois_fanny;ECL527;2019
+chaput_lydia;racinemineault_chanel;ECL527;2019
+chaput_lydia;michaudleblanc_esther;ECL527;2019
+legros_jade;carbonneau_alexandre ;ECL527;2018
+legros_jade;carreau_karlandre;ECL527;2018
+legros_jade;rondeausaintjean_camille;ECL527;2018
+carbonneau_alexandre ;legros_jade;ECL527;2018
+carbonneau_alexandre ;carreau_karlandre;ECL527;2018
+carbonneau_alexandre ;rondeausaintjean_camille;ECL527;2018
+carreau_karlandre;legros_jade;ECL527;2018
+carreau_karlandre;carbonneau_alexandre ;ECL527;2018
+carreau_karlandre;rondeausaintjean_camille;ECL527;2018
+rondeausaintjean_camille;legros_jade;ECL527;2018
+rondeausaintjean_camille;carbonneau_alexandre ;ECL527;2018
+rondeausaintjean_camille;carreau_karlandre;ECL527;2018
+beteille_clemence;plante_louis;ECL527;2018
+beteille_clemence;thiffault_valerie;ECL527;2018
+beteille_clemence;tremblay_audrey;ECL527;2018
+plante_louis;beteille_clemence;ECL527;2018
+thiffault_valerie;beteille_clemence;ECL527;2018
+tremblay_audrey;beteille_clemence;ECL527;2018
+plante_louis;thiffault_valerie;ECL527;2018
+plante_louis;tremblay_audrey;ECL527;2018
+tremblay_audrey;plante_louis;ECL527;2018
+tremblay_audrey;thiffault_valerie;ECL527;2018
+thiffault_valerie;plante_louis;ECL527;2018
+thiffault_valerie;tremblay_audrey;ECL527;2018
+beteille_clemence;lessard_annesophie;ECL534;2019
+lessard_annesophie;beteille_clemence;ECL534;2019
+rondeausaintjean_camille;legros_jade;ECL535;2019
+legros_jade;rondeausaintjean_camille;ECL535;2019
+beteille_clemence;villeneuve_clara;ECL535;2019
+villeneuve_clara;beteille_clemence;ECL535;2019
+lessard_eloise;lessard_annesophie;ECL535;2019
+lessard_annesophie;lessard_eloise;ECL535;2019
+spooner_joelle;beteille_clemence;ECL603;2020
+beteille_clemence;spooner_joelle;ECL603;2020
+lessard_eloise;mallette_marianne;ECL603;2020
+mallette_marianne;lessard_eloise;ECL603;2020
+lessard_annesophie;cazeault_elizabeth;ECL603;2020
+cazeault_elizabeth;lessard_annesophie;ECL603;2020
+legros_jade;lessard_annesophie;ECL608;2019
+legros_jade;cazeault_elizabeth;ECL608;2019
+legros_jade;beteille_clemence;ECL608;2019
+lessard_annesophie;legros_jade;ECL608;2019
+lessard_annesophie;cazeault_elizabeth;ECL608;2019
+lessard_annesophie;beteille_clemence;ECL608;2019
+cazeault_elizabeth;legros_jade;ECL608;2019
+cazeault_elizabeth;lessard_annesophie;ECL608;2019
+cazeault_elizabeth;beteille_clemence;ECL608;2019
+beteille_clemence;legros_jade;ECL608;2019
+beteille_clemence;lessard_annesophie;ECL608;2019
+beteille_clemence;cazeault_elizabeth;ECL608;2019
+legros_jade;carbonneau_alexandre ;ECL611;2018
+carbonneau_alexandre ;legros_jade;ECL611;2018
+lessard_annesophie;rondeausaintjean_camille;ECL611;2019
+lessard_annesophie;cazeault_elizabeth;ECL611;2019
+cazeault_elizabeth;rondeausaintjean_camille;ECL611;2019
+cazeault_elizabeth;lessard_annesophie;ECL611;2019
+rondeausaintjean_camille;lessard_annesophie;ECL611;2019
+rondeausaintjean_camille;cazeault_elizabeth;ECL611;2019
+beteille_clemence;glaus_valentine;ECL611;2019
+glaus_valentine;beteille_clemence;ECL611;2019
+legros_jade;carreau_karlandre;ECL616;2018
+legros_jade;carbonneau_alexandre ;ECL616;2018
+legros_jade;boisvert_remi;ECL616;2018
+carbonneau_alexandre ;legros_jade;ECL616;2018
+carbonneau_alexandre ;carreau_karlandre;ECL616;2018
+carbonneau_alexandre ;boisvert_remi;ECL616;2018
+carreau_karlandre;legros_jade;ECL616;2018
+carreau_karlandre;carbonneau_alexandre ;ECL616;2018
+carreau_karlandre;boisvert_remi;ECL616;2018
+boisvert_remi;legros_jade;ECL616;2018
+boisvert_remi;carreau_karlandre;ECL616;2018
+boisvert_remi;carbonneau_alexandre ;ECL616;2018
+lessard_annesophie;cazeault_elizabeth;ECL616;2019
+lessard_annesophie;beteille_clemence;ECL616;2019
+lessard_annesophie;rondeausaintjean_camille;ECL616;2019
+cazeault_elizabeth;beteille_clemence;ECL616;2019
+cazeault_elizabeth;rondeausaintjean_camille;ECL616;2019
+cazeault_elizabeth;lessard_annesophie;ECL616;2019
+beteille_clemence;cazeault_elizabeth;ECL616;2019
+beteille_clemence;rondeausaintjean_camille;ECL616;2019
+beteille_clemence;lessard_annesophie;ECL616;2019
+rondeausaintjean_camille;cazeault_elizabeth;ECL616;2019
+rondeausaintjean_camille;beteille_clemence;ECL616;2019
+rondeausaintjean_camille;lessard_annesophie;ECL616;2019
+carbonneau_alexandre ;rondeausaintjean_camille;GMQ106;2019
+carbonneau_alexandre ;legros_jade;GMQ106;2019
+rondeausaintjean_camille;carbonneau_alexandre ;GMQ106;2019
+rondeausaintjean_camille;legros_jade;GMQ106;2019
+legros_jade;carbonneau_alexandre ;GMQ106;2019
+legros_jade;rondeausaintjean_camille;GMQ106;2019
+beteille_clemence;lessard_annesophie;GMQ106;2019
+beteille_clemence;tremblay_audrey;GMQ106;2019
+tremblay_audrey;beteille_clemence;GMQ106;2019
+lessard_annesophie;beteille_clemence;GMQ106;2019
+lessard_annesophie;tremblay_audrey;GMQ106;2019
+tremblay_audrey;lessard_annesophie;GMQ106;2019
+lessard_annesophie;pelletier_noemie;MCB101;2018
+pelletier_noemie;lessard_annesophie;MCB101;2018
+cazeault_elizabeth;couture_emma;MCB101;2018
+couture_emma;cazeault_elizabeth;MCB101;2018
+beteille_clemence;guay_laurence;MCB101;2018
+guay_laurence;beteille_clemence;MCB101;2018
+lessard_eloise;mallette_marianne;MCB101;2018
+mallette_marianne;lessard_eloise;MCB101;2018
+lessard_annesophie;cazeault_elizabeth;TSB303;2018
+lessard_annesophie;legros_jade;TSB303;2018
+lessard_annesophie;carreau_karlandre;TSB303;2018
+lessard_annesophie;carbonneau_alexandre ;TSB303;2018
+lessard_annesophie;trottier_katiacatherine;TSB303;2018
+lessard_annesophie;pelletier_noemie;TSB303;2018
+cazeault_elizabeth;lessard_annesophie;TSB303;2018
+cazeault_elizabeth;legros_jade;TSB303;2018
+cazeault_elizabeth;carreau_karlandre;TSB303;2018
+cazeault_elizabeth;carbonneau_alexandre ;TSB303;2018
+cazeault_elizabeth;trottier_katiacatherine;TSB303;2018
+cazeault_elizabeth;pelletier_noemie;TSB303;2018
+legros_jade;lessard_annesophie;TSB303;2018
+legros_jade;cazeault_elizabeth;TSB303;2018
+legros_jade;carreau_karlandre;TSB303;2018
+legros_jade;carbonneau_alexandre ;TSB303;2018
+legros_jade;trottier_katiacatherine;TSB303;2018
+legros_jade;pelletier_noemie;TSB303;2018
+carreau_karlandre;lessard_annesophie;TSB303;2018
+carreau_karlandre;cazeault_elizabeth;TSB303;2018
+carreau_karlandre;legros_jade;TSB303;2018
+carreau_karlandre;carbonneau_alexandre ;TSB303;2018
+carreau_karlandre;trottier_katiacatherine;TSB303;2018
+carreau_karlandre;pelletier_noemie;TSB303;2018
+carbonneau_alexandre ;lessard_annesophie;TSB303;2018
+carbonneau_alexandre ;cazeault_elizabeth;TSB303;2018
+carbonneau_alexandre ;legros_jade;TSB303;2018
+carbonneau_alexandre ;carreau_karlandre;TSB303;2018
+carbonneau_alexandre ;trottier_katiacatherine;TSB303;2018
+carbonneau_alexandre ;pelletier_noemie;TSB303;2018
+trottier_katiacatherine;lessard_annesophie;TSB303;2018
+trottier_katiacatherine;cazeault_elizabeth;TSB303;2018
+trottier_katiacatherine;legros_jade;TSB303;2018
+trottier_katiacatherine;carreau_karlandre;TSB303;2018
+trottier_katiacatherine;carbonneau_alexandre ;TSB303;2018
+trottier_katiacatherine;pelletier_noemie;TSB303;2018
+pelletier_noemie;lessard_annesophie;TSB303;2018
+pelletier_noemie;cazeault_elizabeth;TSB303;2018
+pelletier_noemie;legros_jade;TSB303;2018
+pelletier_noemie;carreau_karlandre;TSB303;2018
+pelletier_noemie;carbonneau_alexandre ;TSB303;2018
+pelletier_noemie;trottier_katiacatherine;TSB303;2018
+beteille_clemence;beauregardlaliberte_raphaelle;ZOO105;2018
+beauregardlaliberte_raphaelle;beteille_clemence;ZOO105;2018
+lessard_annesophie;gagnon_joannie;ZOO105;2018
+lessard_annesophie;lessard_eloise;ZOO105;2018
+gagnon_joannie;lessard_eloise;ZOO105;2018
+gagnon_joannie;lessard_annesophie;ZOO105;2018
+lessard_eloise;gagnon_joannie;ZOO105;2018
+lessard_eloise;lessard_annesophie;ZOO105;2018
+cazeault_elizabeth;pelletier_noemie;ZOO105;2018
+cazeault_elizabeth;couture_emma;ZOO105;2018
+pelletier_noemie;couture_emma;ZOO105;2018
+pelletier_noemie;lessard_annesophie;ZOO105;2018
+couture_emma;pelletier_noemie;ZOO105;2018
+couture_emma;lessard_annesophie;ZOO105;2018
+beteille_clemence;plante_louis;ZOO306;2018
+beteille_clemence;martel_thomas;ZOO306;2018
+plante_louis;beteille_clemence;ZOO306;2018
+martel_thomas;beteille_clemence;ZOO306;2018
+plante_louis;martel_thomas;ZOO306;2018
+martel_thomas;plante_louis;ZOO306;2018
+lessard_eloise;mallette_marianne;ZOO306;2018
+lessard_eloise;gagnon_joannie;ZOO306;2018
+mallette_marianne;lessard_eloise;ZOO306;2018
+mallette_marianne;gagnon_joannie;ZOO306;2018
+gagnon_joannie;lessard_eloise;ZOO306;2018
+gagnon_joannie;mallette_marianne;ZOO306;2018
+cazeault_elizabeth;couture_emma;ZOO306;2018
+cazeault_elizabeth;pelletier_noemie;ZOO306;2018
+cazeault_elizabeth;hudonvoyer_rosalie;ZOO306;2018
+cazeault_elizabeth;lessard_annesophie;ZOO306;2018
+couture_emma;cazeault_elizabeth;ZOO306;2018
+couture_emma;pelletier_noemie;ZOO306;2018
+couture_emma;hudonvoyer_rosalie;ZOO306;2018
+couture_emma;lessard_annesophie;ZOO306;2018
+pelletier_noemie;cazeault_elizabeth;ZOO306;2018
+pelletier_noemie;hudonvoyer_rosalie;ZOO306;2018
+pelletier_noemie;couture_emma;ZOO306;2018
+pelletier_noemie;lessard_annesophie;ZOO306;2018
+hudonvoyer_rosalie;cazeault_elizabeth;ZOO306;2018
+hudonvoyer_rosalie;couture_emma;ZOO306;2018
+hudonvoyer_rosalie;pelletier_noemie;ZOO306;2018
+hudonvoyer_rosalie;lessard_annesophie;ZOO306;2018
+lessard_annesophie;cazeault_elizabeth;ZOO306;2018
+lessard_annesophie;couture_emma;ZOO306;2018
+lessard_annesophie;pelletier_noemie;ZOO306;2018
+lessard_annesophie;hudonvoyer_rosalie;ZOO306;2018
